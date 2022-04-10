@@ -1,0 +1,19 @@
+- Seta para cima - volta um comando;
+- Seta para baixo - avança um comando;
+- Tab - autocompleta o nome do arquivo ou pasta;
+- Ctrl + E - vai para o início da linha;
+- Ctrl + A - vai para o fim da linha;
+- Ctrl + seta para esquerda/direita - pula uma palavra;
+- pwd - mostra o caminho até a pasta ou arquivo;
+- ls - mostra as pastas ou arquivos dentro de uma pasta;
+- clear - limpa o terminal;
+- cd + nome da pasta - entrar em uma pasta;
+- cd .. - voltar para a pasta anterior;
+- mkdir + nome da pasta - cria uma pasta;
+- rm + - + nome da pasta - exclui a pasta;
+
+**Estados dos Arquivos**
+
+Tracked: quando o arquivo já é conhecido pelo git. Pode ser unmodified, modified ou staged.
+
+Untracked: quando o arquivo ainda não é conhecido pelo git.
